@@ -1,2 +1,2 @@
 # hello-world
-learning git
+learning git online platform
